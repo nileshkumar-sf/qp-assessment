@@ -1,0 +1,17 @@
+{
+  "name": "@grocery-booking-api/shared",
+  "version": "0.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "@nestjs/common": "^11.0.17",
+    "@nestjs/config": "^4.0.2",
+    "@nestjs/microservices": "^11.0.17",
+    "@swc/helpers": "~0.5.11",
+    "class-transformer": "^0.5.1",
+    "class-validator": "^0.14.1",
+    "ioredis": "^5.6.1",
+    "typeorm": "^0.3.22",
+    "uuid": "^11.1.0",
+    "@nestjs/swagger": "^11.1.3"
+  }
+}

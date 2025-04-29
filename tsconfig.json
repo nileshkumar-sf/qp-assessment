@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@grocery-booking-api/shared": ["./libs/shared/src/index.ts"],
+      "@grocery-booking-api/shared/*": ["./libs/shared/src/*"]
+    }
+  }
+}
